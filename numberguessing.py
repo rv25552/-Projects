@@ -1,6 +1,6 @@
 import random
 import time
-print('Hello Guys Welcome to the game')
+print('Welcome to the game')
 n = random.randint(1, 100)
 print('You have 2 chances to guess the number')
 count = 2
